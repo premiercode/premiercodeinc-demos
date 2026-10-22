@@ -4,7 +4,7 @@ Static HTML demo prototypes hosted via GitHub Pages at `demo.premiercodeinc.com`
 
 ## Repository
 
-- **Remote**: `git@github.com:brhurley/premiercodeinc-demos.git`
+- **Remote**: `git@github.com:premiercode/premiercodeinc-demos.git`
 - **Hosting**: GitHub Pages with custom domain `demo.premiercodeinc.com`
 
 ## Demo Guidelines
